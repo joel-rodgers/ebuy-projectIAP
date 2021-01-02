@@ -36,7 +36,7 @@
         height: 100px;
     }
     .trending-item{
-        float:left;
+        float:right;
         width:20%;
     }
     .trending-wrapper{
